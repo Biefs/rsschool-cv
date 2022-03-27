@@ -21,8 +21,6 @@ I have been working for 24 years. I am currently working as a SAP CRM system adm
 let result = sum(4, 5);
 alert( result );
 ```
-## Experience
-
 ## Education
 *  **University:** Polessky State University  
     * Finance and credit
