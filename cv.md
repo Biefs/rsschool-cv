@@ -1,11 +1,11 @@
 # Aleksandr Panfilovich
 ## Contacts
 * **Location:** Minsk, Belarus
-* **Phone:** +375 29 786-99-83
-* **Email:** alex.panfilovich@gmail.com
+* **Phone:** +375 25 555-55-55
+* **Email:** random@gmail.com
 * **GitHub:** [Biefs](https://github.com/Biefs)
-## About Me
-I have been working for 24 years. I am currently working as a SAP CRM system administrator. I like to learn something new, so I wanted to study the front endп.
+## Summary
+I am 24 years old. I am interested in web development, so I decided to take courses. Also I like solve different tasks.
 ## Skills
 * HTML/CSS
 * JavaScript (Basic)
@@ -18,8 +18,6 @@ I have been working for 24 years. I am currently working as a SAP CRM system adm
  function sum(x, z) {
   return x + z;
 }
-let result = sum(4, 5);
-alert( result );
 ```
 ## Education
 *  **University:** Polessky State University  
